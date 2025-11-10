@@ -38,3 +38,8 @@ gcloud services enable cloudaicompanion.googleapis.com --project ${PROJECT_ID}
 gcloud projects add-iam-policy-binding ${PROJECT_ID} --member user:${USER} --role=roles/cloudaicompanion.user
 gcloud projects add-iam-policy-binding ${PROJECT_ID} --member user:${USER} --role=roles/serviceusage.serviceUsageViewer
 git status
+git add .
+git status
+git commit -m "Configure my environment and account"
+git push
+git status
