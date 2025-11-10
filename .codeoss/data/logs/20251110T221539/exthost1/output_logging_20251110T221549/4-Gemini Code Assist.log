@@ -518,3 +518,22 @@ I1110 22:18:15.931613    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sen
 I1110 22:19:15.903797    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 810 bytes>
 I1110 22:20:15.954016    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
 I1110 22:21:15.918769    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
+I1110 22:22:15.921925    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
+I1110 22:23:15.924247    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
+I1110 22:24:15.929798    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
+I1110 22:25:15.934456    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 810 bytes>
+I1110 22:26:02.600413    1265 life_cycle.go:454] aiCharsReportEvery: compute and send aicharsreport metric
+I1110 22:26:15.936798    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:27:15.937991    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:28:15.955078    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:29:15.941569    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:30:15.946548    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:31:15.904424    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
+I1110 22:32:15.951451    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
+I1110 22:33:15.958374    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:34:15.954056    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:35:15.952760    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:36:02.600856    1265 life_cycle.go:454] aiCharsReportEvery: compute and send aicharsreport metric
+I1110 22:36:15.954468    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
+I1110 22:37:15.948906    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 811 bytes>
+I1110 22:38:15.959696    1265 conn_opt.go:53] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 812 bytes>
